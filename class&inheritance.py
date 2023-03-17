@@ -1,4 +1,4 @@
-#### 10 클래스
+####  클래스
 
 ## 클래스 정의
 ## 생성자 정의
@@ -96,7 +96,7 @@ print(s1.get_name(), s1.get_age())
 '''
 
 
-# 상속(Inheritance)
+### 상속(Inheritance)
 '''
 class Student :
     
